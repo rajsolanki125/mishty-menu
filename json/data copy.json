@@ -1,0 +1,54 @@
+{
+  "sections": [
+    {
+      "name": "☕ Coffee",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 120,
+          "description": "Strong and bold single shot coffee"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 180,
+          "description": "Creamy coffee with milk foam"
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 200,
+          "description": "Chilled coffee with ice cream"
+        }
+      ]
+    },
+    {
+      "name": "🥪 Snacks",
+      "items": [
+        {
+          "name": "Veg Sandwich",
+          "price": 150,
+          "description": "Grilled sandwich with fresh veggies"
+        },
+        {
+          "name": "Cheese Toast",
+          "price": 170,
+          "description": "Crispy toast loaded with cheese"
+        }
+      ]
+    },
+    {
+      "name": "🍰 Desserts",
+      "items": [
+        {
+          "name": "Chocolate Cake",
+          "price": 220,
+          "description": "Rich and moist chocolate delight"
+        },
+        {
+          "name": "Brownie",
+          "price": 180,
+          "description": "Warm brownie with chocolate sauce"
+        }
+      ]
+    }
+  ]
+}

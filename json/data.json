@@ -1,0 +1,159 @@
+{
+  "sections": [
+    {
+      "name": "☕ Beverages",
+      "items": [
+        {
+          "name": "Rajwadi Tea",
+          "price": 30,
+          "description": "Traditional strong flavored tea"
+        },
+        {
+          "name": "Masala Tea",
+          "price": 15,
+          "description": "Tea infused with Indian spices"
+        },
+        {
+          "name": "Hot Coffee",
+          "price": 20,
+          "description": "Freshly brewed hot coffee"
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 70,
+          "description": "Chilled coffee with creamy texture"
+        },
+        {
+          "name": "Mocha Cold Coffee",
+          "price": 100,
+          "description": "Chocolate flavored cold coffee"
+        }
+      ]
+    },
+    {
+      "name": "🍕 Pizza",
+      "items": [
+        {
+          "name": "Italian Pizza",
+          "price": 100,
+          "description": "Classic pizza with rich toppings"
+        },
+        {
+          "name": "Double Cheese Pizza",
+          "price": 140,
+          "description": "Loaded with extra cheese"
+        }
+      ]
+    },
+    {
+      "name": "🍝 Maggi & Quick Bites",
+      "items": [
+        {
+          "name": "Maggi",
+          "price": 50,
+          "description": "Classic instant noodles"
+        },
+        {
+          "name": "Veg Maggi",
+          "price": 70,
+          "description": "Maggi with fresh vegetables"
+        },
+        {
+          "name": "Cheese Maggi",
+          "price": 100,
+          "description": "Maggi topped with melted cheese"
+        }
+      ]
+    },
+    {
+      "name": "🥪 Snacks",
+      "items": [
+        {
+          "name": "Samosa (2 pcs)",
+          "price": 40,
+          "description": "Crispy fried snack with spicy filling"
+        },
+        {
+          "name": "Chole Samosa",
+          "price": 35,
+          "description": "Samosa served with chole curry"
+        },
+        {
+          "name": "Chole Puri",
+          "price": 100,
+          "description": "Fluffy puri with spicy chole"
+        },
+        {
+          "name": "Pav Bhaji Butter",
+          "price": 100,
+          "description": "Butter-loaded pav bhaji"
+        },
+        {
+          "name": "Vegetable Sandwich",
+          "price": 40,
+          "description": "Grilled sandwich with veggies"
+        },
+        {
+          "name": "Paneer Frankie",
+          "price": 80,
+          "description": "Wrap filled with paneer stuffing"
+        }
+      ]
+    },
+    {
+      "name": "🍚 Rice & Biryani",
+      "items": [
+        {
+          "name": "Pulav",
+          "price": 70,
+          "description": "Lightly spiced rice with vegetables"
+        },
+        {
+          "name": "Cheese Pulav",
+          "price": 120,
+          "description": "Pulav topped with melted cheese"
+        },
+        {
+          "name": "Veg Biryani",
+          "price": 100,
+          "description": "Aromatic rice with spices"
+        },
+        {
+          "name": "Dum Biryani",
+          "price": 100,
+          "description": "Slow-cooked flavorful biryani"
+        },
+        {
+          "name": "Manchurian Fried Rice",
+          "price": 120,
+          "description": "Chinese-style fried rice with Manchurian"
+        }
+      ]
+    },
+    {
+      "name": "🍛 Main Course",
+      "items": [
+        {
+          "name": "Paneer Tikka",
+          "price": 0,
+          "description": "Grilled paneer with spices"
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "price": 0,
+          "description": "Paneer in rich buttery gravy"
+        },
+        {
+          "name": "Dal Fry",
+          "price": 0,
+          "description": "Tempered lentils with spices"
+        },
+        {
+          "name": "Tawa Roti",
+          "price": 0,
+          "description": "Soft wheat flatbread"
+        }
+      ]
+    }
+  ]
+}
