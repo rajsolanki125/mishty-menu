@@ -1,5 +1,5 @@
 async function loadMenu() {
-    const res = await fetch('/json/data.json');
+    const res = await fetch('json/data.json');
     const data = await res.json();
 
     const menu = document.getElementById('menu');
